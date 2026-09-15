@@ -4,12 +4,14 @@ Diversity Healthcare is a unified mobile healthcare application designed to redu
 
 ---
 
-## Authors & Contributors
+## Team & Roles
 
-* **Anabelle Hsiao**
+* **Project Leader:** Anabelle Hsiao
+* **Team Communicator:** Muhammad Bilal
+
+### Contributors
 * **Zeynep Sude Haksal**
 * **Christian Rogers**
-* **Muhammad Bilal**
 * **Vignesh Veerakumar Sathya**
 * **Ho Ching Ashley Wong**
 
